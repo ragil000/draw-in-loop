@@ -1,0 +1,18 @@
+{
+  "name": "draw-in-loop",
+  "displayName": "Draw In Loop",
+  "version": "1.0",
+  "description": "drawing while animation frames are running",
+  "author": "Ragil Manggalaning Yudhanto",
+  "contributors": [],
+  "license": "MIT",
+  "categories": ["Scripts"],
+  "contributes": {
+    "scripts": [
+      {
+        "id": "draw-in-loop",
+        "path": "./draw_in_loop.lua"
+      }
+    ]
+  }
+}
