@@ -4,6 +4,7 @@
 An Aseprite extension that lets you keep drawing while your animation frames play in a loop.  
 It works by automating the **"Next Frame"** action, so you can continue sketching without stopping playback.
 
+![alt text](https://github.com/ragil000/draw-in-loop/blob/main/doc/draw-in-loop-demo.gif?raw=true)
 ----------
 
 ## Features
